@@ -1,0 +1,38 @@
+body {
+  width: 720px;
+  font-size: 16px;
+  line-height: 20px;
+  margin-left: 500px;
+  padding: 0;
+}
+.main {
+  width: 100%;
+}
+h1 {
+  width: 500px;
+  background-color: greenyellow;
+  position: relative;
+  margin-top: -150px;
+  padding: 8px;
+  opacity: 0.5;
+}
+.content {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  position: relative;
+  margin-top: 90px;
+}
+.conten2 {
+  margin-left: 10px;
+}
+.content div div > img {
+  width: 300px;
+  border-top: 5px solid green;
+}
+/* .conten1 {
+  display: block;
+  position: relative;
+  padding: 500px 5px;
+  margin-left: 300px;
+} */
